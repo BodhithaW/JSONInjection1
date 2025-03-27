@@ -1,0 +1,24 @@
+{
+  "name": "jsoninjection1",
+  "version": "1.0.0",
+  "main": "JasonIn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BodhithaW/JSONInjection1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BodhithaW/JSONInjection1/issues"
+  },
+  "homepage": "https://github.com/BodhithaW/JSONInjection1#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^4.21.2"
+  }
+}
